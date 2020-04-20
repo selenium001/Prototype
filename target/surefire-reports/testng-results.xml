@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ExistingUser.existgUser_signInPageTest" duration-ms="10360" started-at="2020-04-19T18:00:17 EDT" finished-at="2020-04-19T18:00:27 EDT">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="10360" started-at="2020-04-19T18:00:17 EDT" finished-at="2020-04-19T18:00:27 EDT">
+      <class name="ExistingUser.existgUser_signInPageTest">
+        <test-method status="PASS" signature="intiateDriver()[pri:0, instance:ExistingUser.existgUser_signInPageTest@25bbe1b6]" name="intiateDriver" is-config="true" duration-ms="6279" started-at="2020-04-19T18:00:17 EDT" finished-at="2020-04-19T18:00:23 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intiateDriver -->
+        <test-method status="PASS" signature="getUrl()[pri:1, instance:ExistingUser.existgUser_signInPageTest@25bbe1b6]" name="getUrl" duration-ms="1539" started-at="2020-04-19T18:00:23 EDT" finished-at="2020-04-19T18:00:25 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUrl -->
+        <test-method status="PASS" signature="signInTitleTest()[pri:2, instance:ExistingUser.existgUser_signInPageTest@25bbe1b6]" name="signInTitleTest" duration-ms="9" started-at="2020-04-19T18:00:25 EDT" finished-at="2020-04-19T18:00:25 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInTitleTest -->
+        <test-method status="PASS" signature="existinguserSignIn()[pri:3, instance:ExistingUser.existgUser_signInPageTest@25bbe1b6]" name="existinguserSignIn" duration-ms="1839" started-at="2020-04-19T18:00:25 EDT" finished-at="2020-04-19T18:00:27 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- existinguserSignIn -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:ExistingUser.existgUser_signInPageTest@25bbe1b6]" name="tearDown" is-config="true" duration-ms="662" started-at="2020-04-19T18:00:27 EDT" finished-at="2020-04-19T18:00:27 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ExistingUser.existgUser_signInPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- ExistingUser.existgUser_signInPageTest -->
+</testng-results>

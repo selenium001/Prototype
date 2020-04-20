@@ -1,0 +1,7 @@
+Regression\regression_use_NSacctLink.class
+Regression\regression_onboarding_db_backdated.class
+Regression\regression_Login.class
+Regression\regression_onboarding_uniqlyYours.class
+TestFiles\onboarding_bp_balancedPlan.class
+TestFiles\onboarding_newUser_basicPlan.class
+ExistingUser\existgUser_signInPageTest.class
